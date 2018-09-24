@@ -1,9 +1,13 @@
 {
   "phones": [
-    { "id":"234hjh2",
-    "number":"067-671-21-12"},
-    { "id":"234gfh2",
-    "number":"050-671-21-12"}
+    {
+     "id":"234hjh2",
+    "number":"067-671-21-12"
+    },
+    { 
+    "id":"234gfh2",
+    "number":"050-671-21-12"
+    }
   ],
   "AgencyPage":{
     "address":{
@@ -11,10 +15,14 @@
       "map":"https://goo.gl/maps/s4nyD7MaHdq"
     },
     "phones": [
-      { "id":"234hjh2",
-      "number":"+38 (067) 671-21-12"},
-      {"id":"234gfh2",
-      "number":"+38 (050) 671-21-12"}
+      { 
+      "id":"234hjh2",
+      "number":"+38 (067) 671-21-12"
+      },
+      {
+      "id":"234gfh2",
+      "number":"+38 (050) 671-21-12"
+      }
     ],
     "email":"office@aksioma.if.ua",
     "title":"Агенство  нерухомості",
