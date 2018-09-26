@@ -91,6 +91,17 @@
           "text": "більше",
           "href": "http://aksioma.if.ua/"
         }
+      },
+       { 
+        "id":"45yrfrtf",
+        "title":"Franko Smart House",
+        "description":"комфорт-клас",
+        "address":"р-н Позитрон",
+        "img":"slider/item-2.jpg",
+        "button": {
+          "text": "більше",
+          "href": "http://aksioma.if.ua/"
+        }
       }
     ]
   },
