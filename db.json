@@ -60,63 +60,6 @@
       }
     ]
   },
-  "ContactPage": {
-    "title": "Контакти",
-    "info": [
-      {
-        "id": "fjnr3454",
-        "title": "Офіс №2",
-        "address": "вул. Галицька 67, офіс 405",
-        "addressHref": "https://goo.gl/maps/s4nyD7MaHdq",
-        "phones": [
-          {
-            "id": "234hjh2",
-            "number": "+38 (067) 671-21-12"
-          },
-          {
-            "id": "234gfh2",
-            "number": "+38 (050) 671-21-12"
-          }
-        ],
-        "email": null
-      },
-      {
-        "id": "2yui4567",
-        "title": "Центральний офіс",
-        "address": "вул. Шашкевича 1, офіс 13",
-        "addressHref": "https://goo.gl/maps/s4nyD7MaHdq",
-        "phones": [
-          {
-            "id": "234hjh2",
-            "number": "+38 (067) 671-21-12"
-          },
-          {
-            "id": "234gfh2",
-            "number": "+38 (050) 671-21-12"
-          }
-        ],
-        "email": "office@aksioma.if.ua"
-      },
-      {
-        "id": "25465kh2",
-        "title": "Офіс №3",
-        "address": "вул.Січ.Стрільців 23, офіс 508",
-        "addressHref": "https://goo.gl/maps/s4nyD7MaHdq",
-        "phones": [
-          {
-            "id": "234hjh2",
-            "number": "+38 (067) 671-21-12"
-          },
-          {
-            "id": "234gfh2",
-            "number": "+38 (050) 671-21-12"
-          }
-        ],
-        "email": null
-      }
-    ],
-    "mapHref": "https://www.google.com/maps/d/embed?mid=1HFux2zwAnn5ep7-EA8qdQrKUOOpVYZqv&ll=48.538822809920056%2C24.7319151474548&z=10"
-  },
   "DetailsInfo": {
     "styue54": {
       "title": "Franko Smart House",
