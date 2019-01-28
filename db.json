@@ -1,47 +1,47 @@
 {
   "staff":[
 		{
-			"image": "./img/1.jpg",
+			"image": "./img/1.png",
 			"full_name": "Оксана Лимар",
 			"position": "керівник, САР, АССА ДипИФР"
 		},
 		{
-			"image": "./img/2.jpg",
+			"image": "./img/2.png",
 			"full_name": "Олег Шевадуцький",
 			"position": "заступник керівника"
 		},
 		{
-			"image": "./img/3.jpg",
+			"image": "./img/3.png",
 			"full_name": "Наталія Городчук",
 			"position": "бухгалтер-експерт"
 		},
 		{
-			"image": "./img/4.jpg",
+			"image": "./img/4.png",
 			"full_name": "Ірина Кохан",
 			"position": "бухгалтер-експерт"
 		},
 		{
-			"image": "./img/5.jpg",
+			"image": "./img/5.png",
 			"full_name": "Інна Вашкурак",
 			"position": "бухгалтер-експерт"
 		},
 		{
-			"image": "./img/6.jpg",
+			"image": "./img/6.png",
 			"full_name": "Інна Яремчук",
 			"position": "бухгалтер-експерт"
 		},
 		{
-			"image": "./img/7.jpg",
+			"image": "./img/7.png",
 			"full_name": "Тетяна Штих",
 			"position": "бухгалтер-експерт"
 		},
 		{
-			"image": "./img/8.jpg",
+			"image": "./img/8.png",
 			"full_name": "Вікторія Полатайко",
 			"position": "бухгалтер"
 		},
 		{
-			"image": "./img/9.jpg",
+			"image": "./img/9.png",
 			"full_name": "Вікторія Калинюк",
 			"position": "бухгалтер"
 		}
