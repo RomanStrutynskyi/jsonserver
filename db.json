@@ -1,50 +1,49 @@
 {
   "staff":[
-	{
-		"image": "./img/1.img",
-		"full_name": "Оксана Лимар",
-		"position": "керівник, САР, АССА ДипИФР"
-	},
-	{
-		"image": "./img/2.img",
-		"full_name": "Олег Шевадуцький",
-		"position": "заступник керівника"
-	},
-	{
-		"image": "./img/3.img",
-		"full_name": "Наталія Городчук",
-		"position": "бухгалтер-експерт"
-	},
-	{
-		"image": "./img/4.img",
-		"full_name": "Ірина Кохан",
-		"position": "бухгалтер-експерт"
-	},
-	{
-		"image": "./img/5.img",
-		"full_name": "Інна Вашкурак",
-		"position": "бухгалтер-експерт"
-	},
-	{
-		"image": "./img/6.img",
-		"full_name": "Інна Яремчук",
-		"position": "бухгалтер-експерт"
-	},
-	{
-		"image": "./img/7.img",
-		"full_name": "Тетяна Штих",
-		"position": "бухгалтер-експерт"
-	},
-	{
-		"image": "./img/8.img",
-		"full_name": "Вікторія Полатайко",
-		"position": "бухгалтер"
-	},
-	{
-		"image": "./img/9.img",
-		"full_name": "Вікторія Калинюк",
-		"position": "бухгалтер"
-	}
-
-]
+		{
+			"image": "./img/1.jpg",
+			"full_name": "Оксана Лимар",
+			"position": "керівник, САР, АССА ДипИФР"
+		},
+		{
+			"image": "./img/2.jpg",
+			"full_name": "Олег Шевадуцький",
+			"position": "заступник керівника"
+		},
+		{
+			"image": "./img/3.jpg",
+			"full_name": "Наталія Городчук",
+			"position": "бухгалтер-експерт"
+		},
+		{
+			"image": "./img/4.jpg",
+			"full_name": "Ірина Кохан",
+			"position": "бухгалтер-експерт"
+		},
+		{
+			"image": "./img/5.jpg",
+			"full_name": "Інна Вашкурак",
+			"position": "бухгалтер-експерт"
+		},
+		{
+			"image": "./img/6.jpg",
+			"full_name": "Інна Яремчук",
+			"position": "бухгалтер-експерт"
+		},
+		{
+			"image": "./img/7.jpg",
+			"full_name": "Тетяна Штих",
+			"position": "бухгалтер-експерт"
+		},
+		{
+			"image": "./img/8.jpg",
+			"full_name": "Вікторія Полатайко",
+			"position": "бухгалтер"
+		},
+		{
+			"image": "./img/9.jpg",
+			"full_name": "Вікторія Калинюк",
+			"position": "бухгалтер"
+		}
+	]
 }
