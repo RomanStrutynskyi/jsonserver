@@ -1,49 +1,32 @@
 {
-  "staff":[
-		{
-			"image": "./img/1.png",
-			"full_name": "Оксана Лимар",
-			"position": "керівник, САР, АССА ДипИФР"
-		},
-		{
-			"image": "./img/2.png",
-			"full_name": "Олег Шевадуцький",
-			"position": "заступник керівника"
-		},
-		{
-			"image": "./img/3.png",
-			"full_name": "Наталія Городчук",
-			"position": "бухгалтер-експерт"
-		},
-		{
-			"image": "./img/4.png",
-			"full_name": "Ірина Кохан",
-			"position": "бухгалтер-експерт"
-		},
-		{
-			"image": "./img/5.png",
-			"full_name": "Інна Вашкурак",
-			"position": "бухгалтер-експерт"
-		},
-		{
-			"image": "./img/6.png",
-			"full_name": "Інна Яремчук",
-			"position": "бухгалтер-експерт"
-		},
-		{
-			"image": "./img/7.png",
-			"full_name": "Тетяна Штих",
-			"position": "бухгалтер-експерт"
-		},
-		{
-			"image": "./img/8.png",
-			"full_name": "Вікторія Полатайко",
-			"position": "бухгалтер"
-		},
-		{
-			"image": "./img/9.png",
-			"full_name": "Вікторія Калинюк",
-			"position": "бухгалтер"
-		}
-	]
+  "addresses":[
+		
+    {
+        "id": 1,
+        "address_name_uk": "вул. Крайківського, 1; (фабрика)",
+        "address_name_en": "street Kryikovskogo, 1; (factory)",
+        "description_uk": "<p>Понеділок-Пятниця: 8:00-18:30</p>\r\n\r\n<p>Субота: 9:00-14:00</p>\r\n\r\n<p>Неділя: вихідний</p>",
+        "description_en": "<p>Monday-Friday: 8:00-18:30</p>\r\n\r\n<p>Saturday: 9:00-14:00</p>\r\n\r\n<p>Sunday: outgoing</p>",
+        "x": 48.93233,
+        "y": 24.71153
+    },
+    {
+        "id": 2,
+        "address_name_uk": "Кіоск на центр. ринку № 44;",
+        "address_name_en": "Kiosk to the center. market № 44;",
+        "description_uk": "<p>Вівторок-Субота 9:00-18:00</p>\r\n\r\n<p>Неділя: 10:00- 15:00</p>\r\n\r\n<p>Понеділок: вихідний</p>",
+        "description_en": "<p>Tuesday-Saturday 9:00-18:00</p>\r\n\r\n<p>Sunday: 10:00- 15:00</p>\r\n\r\n<p>Monday: outgoing</p>",
+        "x": 48.92604,
+        "y": 24.71206
+    },
+    {
+        "id": 3,
+        "address_name_uk": "Вул. Тролейбусна 2б, ринок",
+        "address_name_en": "Street Trolleybus 2b, market",
+        "description_uk": "<p>Понеділок-Субота: 8:00-20:00</p>\r\n\r\n<p>Неділя: 9:00-18:30</p>\r\n\r\n<p>Обід:13:00-13:30</p>",
+        "description_en": "<p>Monday to Saturday: 8:00-20:00</p>\r\n\r\n<p>Sunday: 9:00-18:30</p>\r\n\r\n<p>Lunch: 13: 00-13: 30</p>",
+        "x": 48.94314,
+        "y": 24.69876
+    }
+]
 }
