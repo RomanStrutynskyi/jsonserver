@@ -1,112 +1,70 @@
 {
-  "addresses":[
-    {
-        "id": 1,
+ city:[
+  {
+    "id": 1,
+    "name_city": "Івано-Франківськ",
+    "addresses": [
+      {
+        "id": 13,
         "address_name_uk": "вул. Крайківського, 1; (фабрика)",
         "address_name_en": "street Kryikovskogo, 1; (factory)",
         "description_uk": "<p>Понеділок-Пятниця: 8:00-18:30</p>\r\n\r\n<p>Субота: 9:00-14:00</p>\r\n\r\n<p>Неділя: вихідний</p>",
         "description_en": "<p>Monday-Friday: 8:00-18:30</p>\r\n\r\n<p>Saturday: 9:00-14:00</p>\r\n\r\n<p>Sunday: outgoing</p>",
-        "x": 48.93233,
-        "y": 24.71153
-    },
-    {
-        "id": 2,
+        "x": 48.9323475,
+        "y": 24.7108449
+      },
+      {
+        "id": 14,
         "address_name_uk": "Кіоск на центр. ринку № 44;",
         "address_name_en": "Kiosk to the center. market № 44;",
         "description_uk": "<p>Вівторок-Субота 9:00-18:00</p>\r\n\r\n<p>Неділя: 10:00-15:00</p>\r\n\r\n<p>Понеділок: вихідний</p>",
         "description_en": "<p>Tuesday-Saturday 9:00-18:00</p>\r\n\r\n<p>Sunday: 10:00-15:00</p>\r\n\r\n<p>Monday: outgoing</p>",
-        "x": 48.92604,
-        "y": 24.71206
-    },
-    {
-        "id": 3,
+        "x": 48.92603,
+        "y": 24.71192
+      },
+      {
+        "id": 15,
         "address_name_uk": "Вул. Тролейбусна 2б, ринок",
-        "address_name_en": "Street Trolleybus 2b, market",
+        "address_name_en": "street Trolleybus 2b, market",
         "description_uk": "<p>Понеділок-Субота: 8:00-20:00</p>\r\n\r\n<p>Неділя: 9:00-18:30</p>\r\n\r\n<p>Обід: 13:00-13:30</p>",
         "description_en": "<p>Monday to Saturday: 8:00-20:00</p>\r\n\r\n<p>Sunday: 9:00-18:30</p>\r\n\r\n<p>Lunch: 13:00-13:30</p>",
-        "x": 48.94314,
-        "y": 24.69876
-    },
-    {
-        "id": 4,
+        "x": 48.9433454,
+        "y": 24.6987045
+      },
+      {
+        "id": 16,
         "address_name_uk": "Вул. Мазепи, 179 (Трикотажна ф-ка)",
         "address_name_en": "Mazepa street, 179 (Knitted F-ka)",
         "description_uk": "<p>Понеділок-Субота: 8:00-20:00</p>\r\n\r\n<p>Неділя: 9:00-18:30</p>\r\n\r\n<p>Обід: 13:00-13:30</p>",
         "description_en": "<p>Monday to Saturday: 8:00-20:00</p>\r\n\r\n<p>Sunday: 9:00-18:30</p>\r\n\r\n<p>Lunch: 13:00-13:30</p>",
-        "x": 48.90612,
-        "y": 24.68333
-    },
-    {
-        "id": 5,
-        "address_name_uk": "Вул. Короля Данила (ринок)",
-        "address_name_en": "King Danylo  street (market)",
+        "x": 48.906,
+        "y": 24.68354
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name_city": "Коломия",
+    "addresses": [
+      {
+        "id": 17,
+        "address_name_uk": "вул. Тютюнника 2",
+        "address_name_en": "street Ttiuninika 2",
         "description_uk": "<p>Понеділок-Субота: 8:00-20:00</p>\r\n\r\n<p>Неділя: 9:00-18:30</p>\r\n\r\n<p>Обід: 13:00-13:30</p>",
         "description_en": "<p>Monday to Saturday: 8:00-20:00</p>\r\n\r\n<p>Sunday: 9:00-18:30</p>\r\n\r\n<p>Lunch: 13:00-13:30</p>",
-        "x": 48.92086,
-        "y": 24.70078
-    },
-    {
-        "id": 6,
-        "address_name_uk": "Вул. Коновальця-Сорохтея, (навпроти супермаркету  «Велмарт»)",
-        "address_name_en": "Konovalets-Sorokhteya street, (opposite the supermarket \"Velmart\")",
-        "description_uk": "<p>Понеділок-Субота: 8:00-20:00</p>\r\n\r\n<p>Неділя: 9:00-18:30</p>\r\n\r\n<p>Обід: 13:00-13:30</p>",
-        "description_en": "<p>Monday to Saturday: 8:00-20:00</p>\r\n\r\n<p>Sunday: 9:00-18:30</p>\r\n\r\n<p>Lunch: 13:00-13:30</p>",
-        "x": 48.90317,
-        "y": 24.71297
-    },
-    {
-        "id": 7,
-        "address_name_uk": "Вул. Хоткевича, 44-3 (навпроти «Колібріс» і районного ринку)",
-        "address_name_en": "Street Hotkevich, 44-3 (opposite Colibris and the district market)",
-        "description_uk": "<p>Понеділок-Субота: 8:00-20:00</p>\r\n\r\n<p>Неділя: 9:00-18:30</p>\r\n\r\n<p>Обід: 13:00-13:30</p>",
-        "description_en": "<p>Monday to Saturday: 8:00-20:00</p>\r\n\r\n<p>Sunday: 9:00-18:30</p>\r\n\r\n<p>Lunch: 13:00-13:30</p>",
-        "x": 48.9233,
-        "y": 24.73736
-    },
-    {
-        "id": 8,
-        "address_name_uk": "Вул. Стуса (біля «Гранд Базару»)",
-        "address_name_en": "Stusa street (near the Grand Bazaar)",
-        "description_uk": "<p>Понеділок-Субота: 8:00-20:00</p>\r\n\r\n<p>Неділя: 9:00-18:30</p>\r\n\r\n<p>Обід: 13:00-13:30</p>",
-        "description_en": "<p>Monday to Saturday: 8:00-20:00</p>\r\n\r\n<p>Sunday: 9:00-18:30</p>\r\n\r\n<p>Lunch: 13:00-13:30</p>",
-        "x": 48.93559,
-        "y": 24.74413
-    },
-    {
-        "id": 9,
-        "address_name_uk": "Вул.  Коновальця, 73В (перехрестя вулиць Сахарова і Коновальця)",
-        "address_name_en": "Street Konovalets, 73B (crossroads of Sakharov and Konovalets streets)",
-        "description_uk": "<p>Понеділок-Субота: 8:00-20:00</p>\r\n\r\n<p>Неділя: 9:00-18:30</p>\r\n\r\n<p>Обід: 13:00-13:30</p>",
-        "description_en": "<p>Monday to Saturday: 8:00-20:00</p>\r\n\r\n<p>Sunday: 9:00-18:30</p>\r\n\r\n<p>Lunch: 13:00-13:30</p>",
-        "x": 48.91419,
-        "y": 24.70962
-    },
-    {
-        "id": 10,
-        "address_name_uk": "Вул.  Довженка (кільце Чорновола)",
-        "address_name_en": "Dovzhenko street  (Chornovil ring)",
-        "description_uk": "<p>Понеділок-Субота: 8:00-20:00</p>\r\n\r\n<p>Неділя: 9:00-18:30</p>\r\n\r\n<p>Обід: 13:00-13:30</p>",
+        "x": 48.52471,
+        "y": 25.08466
+      },
+      {
+        "id": 18,
+        "address_name_uk": "вул. Грушевського, 118",
+        "address_name_en": "street Grushevskogo, 118",
+        "description_uk": "<p>Понеділок-Субота: 8:00-20:00</p>\r\n\r\n<p>Неділя: 9:00-18:30</p>\r\n\r\n<p>Обід: 13:00-10:00</p>",
         "description_en": "<p>Monday to Saturday: 8:00-20:00</p>\r\n\r\n<p>Sunday: 9:00-18:30</p>\r\n\r\n<p>Lunch: 13:00-14:00</p>",
-        "x": 48.90348,
-        "y": 24.69633
-    },
-    {
-        "id": 11,
-        "address_name_uk": "Вул. Миколайчука (біля ТЦ «Торговиця»)",
-        "address_name_en": "Mykolaychuk street (near Torgovytsia shopping center)",
-        "description_uk": "<p>Понеділок-Субота: 8:00-20:00</p>\r\n\r\n<p>Неділя: 9:00-18:30</p>\r\n\r\n<p>Обід: 13:00-13:30</p>",
-        "description_en": "<p>Monday to Saturday: 8:00-20:00</p>\r\n\r\n<p>Sunday: 9:00-18:30</p>\r\n\r\n<p>Lunch: 13:00-13:30</p>",
-        "x": 48.93676,
-        "y": 24.74868
-    },
-    {
-        "id": 12,
-        "address_name_uk": "Вул. Пулюя, 6 (поряд ТЦ Юність)",
-        "address_name_en": "Street Bullya, 6 (along the Yunost TC)",
-        "description_uk": "<p>Понеділок-Субота: 8:00-20:00</p>\r\n\r\n<p>Неділя: 9:00-18:30</p>\r\n\r\n<p>Обід: 13:00-13:30</p>",
-        "description_en": "<p>Monday to Saturday: 8:00-20:00</p>\r\n\r\n<p>Sunday: 9:00-18:30</p>\r\n\r\n<p>Lunch: 13:00-13:30</p>",
-        "x": 48.93296,
-        "y": 24.70288
-    }
+        "x": 48.52622,
+        "y": 25.02266
+      }
+    ]
+  }
 ]
 }
